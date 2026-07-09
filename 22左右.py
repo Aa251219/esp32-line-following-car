@@ -68,7 +68,7 @@ LONG_STRAIGHT_CENTER_TH = 0.12
 # 连续居中多久后开始限速，单位 ms
 # 如果还没减速就冲直角：调小，例如 700
 # 如果减速太早导致时间变长：调大，例如 1000
-LONG_STRAIGHT_TIME_MS = 700
+LONG_STRAIGHT_TIME_MS = 600
 
 # 长直线末端保护速度
 # 如果直角还是冲出去：降到 55
